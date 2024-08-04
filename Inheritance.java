@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Shape{
     public void area(){
         System.out.println("Area of shape");
@@ -53,8 +55,6 @@ public class Inheritance {
         //* For Method Overriding
         //* For Extending the functionality of a class
         //* For Modifying the behavior of a class
-
-        
 
     }
 }
